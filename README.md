@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @redhauser
-- 👀 I’m interested in life
-- 🌱 I’m currently learning, yes
-- 💞️ I’m looking to collaborate on something idk
-- 📫 How to reach me: i'm not sure.
+- 👀 I’m interested in making games, art, and music!
+- 🌱 I’m currently learning C++, C#, re-learning JS, HTML, CSS. Looking forward in the future to learn Java, Bash, and to expand my knowledge.
+- 💞️ I’m looking to collaborate on projects surrounding games! I aspire to become a game developer, and any experience to improve my skills is appreciated.
+- 📫 How to reach me: Consider commenting on my git repositories.
 
 <!---
 redhauser/redhauser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
