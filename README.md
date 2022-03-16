@@ -1,3 +1,4 @@
+# About me
 - 👋 Hi, I’m @redhauser
 - 👀 I’m interested in making games, art, and music!
 - 🌱 I’m currently learning C++, C#, Lua, re-learning JS, HTML, CSS. Looking forward in the future to learn JS frameworks, SQL, Java, Bash, and to expand my knowledge.
