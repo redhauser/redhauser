@@ -1,9 +1,8 @@
 # About me
 - 👋 Hi, I’m @redhauser
 - 👀 I’m interested in making games, art, and music!
-- 🌱 I’m currently learning Rust, C and C++. Would love to learn (or have a basic understanding of) C#, Lua, Python, as well as extend my knowledge of JS, HTML and CSS.
-- 💞️ I’m looking to collaborate on projects like making and modding games as of right now!
-- 📫 How to reach me: As of right now, there is no way. If you know me, me you know me :D
+- 🌱 I’m currently learning Rust!
+- 📫 How to reach me: if you know me you know me xd?!
 - ✨ I'm currently working on a bunch of random stuff. 
 <!---
 redhauser/redhauser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
